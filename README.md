@@ -1,8 +1,10 @@
 ## RaspberryPi
-Scripts for Basic Raspberry Pi Projects
+Basic Raspberry Pi Projects to get started with
 
 ### Projects
-#### motionDetection.py 
-Program to detect motion in a scene using the raspberry pi camera and opencv
+#### MotionDetection 
+Program to detect motion in a scene using the raspberry pi camera and opencv.
+Make sure the necessary programs are installed.
+This project is idle for birds/animals watching in garden or surveillance of a place for intruders.
 
 
